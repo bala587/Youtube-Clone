@@ -38,7 +38,7 @@ npm install
 ```js
 REACT_APP_RAPID_API_KEY= your rapid api key
 ```
-Add Rapid Api Key from  ![Api Key](https://rapidapi.com/ytdlfree/api/youtube-v31/)
+Add Rapid Api Key from  [Api Key](https://rapidapi.com/ytdlfree/api/youtube-v31/)
 
 ### Run Your App 🚀
 
