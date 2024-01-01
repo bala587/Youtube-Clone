@@ -8,7 +8,7 @@
 
 
 The React YouTube Clone project is a web application that replicates the user interface and functionalities of YouTube using React. This clone is powered by the YouTube v3 API obtained from Rapid API, allowing users to search for videos, watch them, and explore video details seamlessly.
-
+ 
 ### Key Features:
 - Search Videos:
 - Video Playback
